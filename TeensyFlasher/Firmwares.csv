@@ -1,4 +1,4 @@
-﻿All-in-one v4.x,https://raw.githubusercontent.com/ph64/AOGConfigOMatic/main/Firmwares/AOG_v4_Firmware.ino.hex
+Phidget motor ﻿AIO v4.x,https://raw.githubusercontent.com/ph64/AOGConfigOMatic/main/Firmwares/AOG_v4_Firmware.ino.hex
 Keya Motor,https://raw.githubusercontent.com/ph64/AOGConfigOMatic/main/Firmwares/AOG-Keya-CANBUS.hex
 Keya Motor with Runnig Average and Lazy Kick Off,https://raw.githubusercontent.com/ph64/AOGConfigOMatic/main/Firmwares/AOG-Keya-CANBUS_RunningAverage.hex
 Keya Motor with Lazy Kick Off,https://raw.githubusercontent.com/ph64/AOGConfigOMatic/main/Firmwares/AOG-Keya-CANBUS_lazykickoff.hex
