@@ -104,7 +104,7 @@
             this.rbSingleF9P.Size = new System.Drawing.Size(88, 29);
             this.rbSingleF9P.TabIndex = 0;
             this.rbSingleF9P.TabStop = true;
-            this.rbSingleF9P.Text = "Single";
+            this.rbSingleF9P.Text = "Simple antenne";
             this.rbSingleF9P.UseVisualStyleBackColor = true;
             this.rbSingleF9P.CheckedChanged += new System.EventHandler(this.rbSingleF9P_CheckedChanged);
             // 
@@ -125,7 +125,7 @@
             this.btnConfigF9P.Name = "btnConfigF9P";
             this.btnConfigF9P.Size = new System.Drawing.Size(160, 50);
             this.btnConfigF9P.TabIndex = 10;
-            this.btnConfigF9P.Text = "Configure F9P";
+            this.btnConfigF9P.Text = "Configurer F9P";
             this.btnConfigF9P.UseVisualStyleBackColor = true;
             this.btnConfigF9P.Click += new System.EventHandler(this.btnConfigF9P_Click);
             // 
@@ -158,7 +158,7 @@
             this.btnConnect.Name = "btnConnect";
             this.btnConnect.Size = new System.Drawing.Size(160, 50);
             this.btnConnect.TabIndex = 6;
-            this.btnConnect.Text = "Connect";
+            this.btnConnect.Text = "Connecter";
             this.btnConnect.UseVisualStyleBackColor = true;
             this.btnConnect.Click += new System.EventHandler(this.btnConnect_Click);
             // 
@@ -170,7 +170,7 @@
             this.lblCOMPorts.Name = "lblCOMPorts";
             this.lblCOMPorts.Size = new System.Drawing.Size(110, 25);
             this.lblCOMPorts.TabIndex = 5;
-            this.lblCOMPorts.Text = "Serial ports";
+            this.lblCOMPorts.Text = "Ports Séries";
             // 
             // txtSerialChat
             // 
@@ -203,7 +203,7 @@
             this.btnURefresh.Name = "btnURefresh";
             this.btnURefresh.Size = new System.Drawing.Size(240, 50);
             this.btnURefresh.TabIndex = 2;
-            this.btnURefresh.Text = "Rescan Ports";
+            this.btnURefresh.Text = "Re-scan Ports";
             this.btnURefresh.UseVisualStyleBackColor = true;
             this.btnURefresh.Click += new System.EventHandler(this.btnURefresh_Click);
             // 
@@ -215,7 +215,7 @@
             this.lblUblox.Name = "lblUblox";
             this.lblUblox.Size = new System.Drawing.Size(234, 29);
             this.lblUblox.TabIndex = 0;
-            this.lblUblox.Text = "U-Blox Configuration";
+            this.lblUblox.Text = "Configuration F9P";
             // 
             // tmrMessages
             // 
