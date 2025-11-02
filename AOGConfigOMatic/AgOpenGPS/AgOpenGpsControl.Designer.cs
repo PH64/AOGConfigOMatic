@@ -155,7 +155,7 @@ namespace AOGConfigOMatic.AgOpenGPS
             this.btnCheckLatest.Name = "btnCheckLatest";
             this.btnCheckLatest.Size = new System.Drawing.Size(113, 28);
             this.btnCheckLatest.TabIndex = 2;
-            this.btnCheckLatest.Text = "dernière release";
+            this.btnCheckLatest.Text = "Dernière";
             this.btnCheckLatest.UseVisualStyleBackColor = true;
             this.btnCheckLatest.Click += new System.EventHandler(this.btnCheckLatest_Click);
             // 
@@ -167,7 +167,7 @@ namespace AOGConfigOMatic.AgOpenGPS
             this.btnRefresh.Name = "btnRefresh";
             this.btnRefresh.Size = new System.Drawing.Size(100, 28);
             this.btnRefresh.TabIndex = 1;
-            this.btnRefresh.Text = "Rafréchir";
+            this.btnRefresh.Text = "Rafraichir";
             this.btnRefresh.UseVisualStyleBackColor = true;
             this.btnRefresh.Click += new System.EventHandler(this.btnRefresh_Click);
             // 
@@ -217,7 +217,7 @@ namespace AOGConfigOMatic.AgOpenGPS
             this.lblSelectedRelease.Name = "lblSelectedRelease";
             this.lblSelectedRelease.Size = new System.Drawing.Size(105, 16);
             this.lblSelectedRelease.TabIndex = 0;
-            this.lblSelectedRelease.Text = "Selected: (none)";
+            this.lblSelectedRelease.Text = "Selectionné : (none)";
             // 
             // groupBoxDownloadPath
             // 
@@ -265,7 +265,7 @@ namespace AOGConfigOMatic.AgOpenGPS
             this.lblDownloadTo.Name = "lblDownloadTo";
             this.lblDownloadTo.Size = new System.Drawing.Size(85, 16);
             this.lblDownloadTo.TabIndex = 0;
-            this.lblDownloadTo.Text = "Télécharger :";
+            this.lblDownloadTo.Text = "Télécharger dans :";
             // 
             // groupBoxLocalInstall
             // 
@@ -340,7 +340,7 @@ namespace AOGConfigOMatic.AgOpenGPS
             this.lblInstallPath.Name = "lblInstallPath";
             this.lblInstallPath.Size = new System.Drawing.Size(159, 16);
             this.lblInstallPath.TabIndex = 1;
-            this.lblInstallPath.Text = "dossier : (non detecté)";
+            this.lblInstallPath.Text = "Dossier d'installation : (non detecté)";
             // 
             // lblInstalledVersion
             // 
@@ -350,7 +350,7 @@ namespace AOGConfigOMatic.AgOpenGPS
             this.lblInstalledVersion.Name = "lblInstalledVersion";
             this.lblInstalledVersion.Size = new System.Drawing.Size(172, 16);
             this.lblInstalledVersion.TabIndex = 0;
-            this.lblInstalledVersion.Text = "Version installée: (unknown)";
+            this.lblInstalledVersion.Text = "Version installée : (unknown)";
             // 
             // progressBar
             // 
