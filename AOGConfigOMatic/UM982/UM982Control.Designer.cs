@@ -94,7 +94,7 @@
             this.btnURefreshUM982.Name = "btnURefreshUM982";
             this.btnURefreshUM982.Size = new System.Drawing.Size(160, 50);
             this.btnURefreshUM982.TabIndex = 7;
-            this.btnURefreshUM982.Text = "Rescan Ports";
+            this.btnURefreshUM982.Text = "Re-scan Ports";
             this.btnURefreshUM982.UseVisualStyleBackColor = true;
             this.btnURefreshUM982.Click += new System.EventHandler(this.btnURefreshUM982_Click);
             // 
@@ -128,7 +128,7 @@
             this.btnUMSingle.Size = new System.Drawing.Size(120, 40);
             this.btnUMSingle.TabIndex = 0;
             this.btnUMSingle.TabStop = true;
-            this.btnUMSingle.Text = "Single";
+            this.btnUMSingle.Text = "Simple antenne";
             this.btnUMSingle.UseVisualStyleBackColor = true;
             // 
             // UM982Control
