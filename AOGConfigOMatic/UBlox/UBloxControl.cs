@@ -25,7 +25,7 @@ namespace AOGConfigOMatic.UBlox
         private string? SelectedComPort;
         private SerialPort? _serialPort = null;
         private bool isReadingData = false;
-        private string _FileName = ".\\Single.txt";
+        private string _FileName = ".\\1.13 SingleAntennaRover_Amatron";
         private bool isProgrammingF9P = false;
         private bool isClosing = false;
         private int errorCount = 0;
