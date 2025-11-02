@@ -48,10 +48,10 @@ namespace AOGConfigOMatic
             switch (item.Text)
             {
                 case "AgOpenGPS":
-                    Process.Start("https://github.com/farmerbriantee/AgOpenGPS");
+                    Process.Start("https://github.com/AgOpenGPS-Official/AgOpenGPS");
                     break;
                 case "AgHardware":
-                    Process.Start("https://github.com/AgHardware");
+                    Process.Start("https://github.com/AgOpenGPS-Official/Boards");
                     break;
                 case "AgOpenGPS videos":
                     Process.Start("https://www.youtube.com/playlist?list=PL1N2N2XFHWW1fIDhb7koOa7hxH0LGppYc");
