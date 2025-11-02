@@ -125,7 +125,7 @@
             this.btnConfigF9P.Name = "btnConfigF9P";
             this.btnConfigF9P.Size = new System.Drawing.Size(160, 50);
             this.btnConfigF9P.TabIndex = 10;
-            this.btnConfigF9P.Text = "Configurer F9P";
+            this.btnConfigF9P.Text = "Configurer";
             this.btnConfigF9P.UseVisualStyleBackColor = true;
             this.btnConfigF9P.Click += new System.EventHandler(this.btnConfigF9P_Click);
             // 
