@@ -75,7 +75,7 @@ namespace AOGConfigOMatic.AgOpenGPS
             this.groupBoxReleases.Size = new System.Drawing.Size(1059, 308);
             this.groupBoxReleases.TabIndex = 0;
             this.groupBoxReleases.TabStop = false;
-            this.groupBoxReleases.Text = "Available Releases";
+            this.groupBoxReleases.Text = "Releases disponibles";
             // 
             // dataGridViewReleases
             // 
@@ -155,7 +155,7 @@ namespace AOGConfigOMatic.AgOpenGPS
             this.btnCheckLatest.Name = "btnCheckLatest";
             this.btnCheckLatest.Size = new System.Drawing.Size(113, 28);
             this.btnCheckLatest.TabIndex = 2;
-            this.btnCheckLatest.Text = "Check Latest";
+            this.btnCheckLatest.Text = "dernière release";
             this.btnCheckLatest.UseVisualStyleBackColor = true;
             this.btnCheckLatest.Click += new System.EventHandler(this.btnCheckLatest_Click);
             // 
@@ -167,7 +167,7 @@ namespace AOGConfigOMatic.AgOpenGPS
             this.btnRefresh.Name = "btnRefresh";
             this.btnRefresh.Size = new System.Drawing.Size(100, 28);
             this.btnRefresh.TabIndex = 1;
-            this.btnRefresh.Text = "Refresh";
+            this.btnRefresh.Text = "Rafréchir";
             this.btnRefresh.UseVisualStyleBackColor = true;
             this.btnRefresh.Click += new System.EventHandler(this.btnRefresh_Click);
             // 
@@ -179,7 +179,7 @@ namespace AOGConfigOMatic.AgOpenGPS
             this.chkIncludePreReleases.Name = "chkIncludePreReleases";
             this.chkIncludePreReleases.Size = new System.Drawing.Size(153, 20);
             this.chkIncludePreReleases.TabIndex = 0;
-            this.chkIncludePreReleases.Text = "Include Pre-releases";
+            this.chkIncludePreReleases.Text = "Inclure Pré-releases";
             this.chkIncludePreReleases.UseVisualStyleBackColor = true;
             this.chkIncludePreReleases.CheckedChanged += new System.EventHandler(this.chkIncludePreReleases_CheckedChanged);
             // 
@@ -205,7 +205,7 @@ namespace AOGConfigOMatic.AgOpenGPS
             this.btnDownloadZip.Name = "btnDownloadZip";
             this.btnDownloadZip.Size = new System.Drawing.Size(160, 28);
             this.btnDownloadZip.TabIndex = 1;
-            this.btnDownloadZip.Text = "Download Zip";
+            this.btnDownloadZip.Text = "Télécharger Zip";
             this.btnDownloadZip.UseVisualStyleBackColor = true;
             this.btnDownloadZip.Click += new System.EventHandler(this.btnDownloadZip_Click);
             // 
@@ -232,7 +232,7 @@ namespace AOGConfigOMatic.AgOpenGPS
             this.groupBoxDownloadPath.Size = new System.Drawing.Size(544, 98);
             this.groupBoxDownloadPath.TabIndex = 2;
             this.groupBoxDownloadPath.TabStop = false;
-            this.groupBoxDownloadPath.Text = "Download Location";
+            this.groupBoxDownloadPath.Text = "Dossier téléchargement";
             // 
             // btnBrowsePath
             // 
@@ -242,7 +242,7 @@ namespace AOGConfigOMatic.AgOpenGPS
             this.btnBrowsePath.Name = "btnBrowsePath";
             this.btnBrowsePath.Size = new System.Drawing.Size(100, 28);
             this.btnBrowsePath.TabIndex = 2;
-            this.btnBrowsePath.Text = "Browse...";
+            this.btnBrowsePath.Text = "Parcourir";
             this.btnBrowsePath.UseVisualStyleBackColor = true;
             this.btnBrowsePath.Click += new System.EventHandler(this.btnBrowsePath_Click);
             // 
@@ -265,7 +265,7 @@ namespace AOGConfigOMatic.AgOpenGPS
             this.lblDownloadTo.Name = "lblDownloadTo";
             this.lblDownloadTo.Size = new System.Drawing.Size(85, 16);
             this.lblDownloadTo.TabIndex = 0;
-            this.lblDownloadTo.Text = "Download to:";
+            this.lblDownloadTo.Text = "Télécharger :";
             // 
             // groupBoxLocalInstall
             // 
@@ -284,7 +284,7 @@ namespace AOGConfigOMatic.AgOpenGPS
             this.groupBoxLocalInstall.Size = new System.Drawing.Size(1059, 148);
             this.groupBoxLocalInstall.TabIndex = 3;
             this.groupBoxLocalInstall.TabStop = false;
-            this.groupBoxLocalInstall.Text = "Local Installation";
+            this.groupBoxLocalInstall.Text = "Dossier Installation";
             // 
             // chkStartWithWindows
             // 
@@ -294,7 +294,7 @@ namespace AOGConfigOMatic.AgOpenGPS
             this.chkStartWithWindows.Name = "chkStartWithWindows";
             this.chkStartWithWindows.Size = new System.Drawing.Size(220, 20);
             this.chkStartWithWindows.TabIndex = 4;
-            this.chkStartWithWindows.Text = "Start AgOpenGPS with Windows";
+            this.chkStartWithWindows.Text = "AgOpenGPS au démarrage";
             this.chkStartWithWindows.UseVisualStyleBackColor = true;
             this.chkStartWithWindows.CheckedChanged += new System.EventHandler(this.chkStartWithWindows_CheckedChanged);
             // 
@@ -305,7 +305,7 @@ namespace AOGConfigOMatic.AgOpenGPS
             this.btnCreateDesktopShortcut.Name = "btnCreateDesktopShortcut";
             this.btnCreateDesktopShortcut.Size = new System.Drawing.Size(270, 28);
             this.btnCreateDesktopShortcut.TabIndex = 5;
-            this.btnCreateDesktopShortcut.Text = "Create Desktop Shortcut";
+            this.btnCreateDesktopShortcut.Text = "Raccouci bureau";
             this.btnCreateDesktopShortcut.UseVisualStyleBackColor = true;
             this.btnCreateDesktopShortcut.Click += new System.EventHandler(this.btnCreateDesktopShortcut_Click);
             // 
@@ -316,7 +316,7 @@ namespace AOGConfigOMatic.AgOpenGPS
             this.btnOpenInstallFolder.Name = "btnOpenInstallFolder";
             this.btnOpenInstallFolder.Size = new System.Drawing.Size(160, 28);
             this.btnOpenInstallFolder.TabIndex = 3;
-            this.btnOpenInstallFolder.Text = "Open Install Folder";
+            this.btnOpenInstallFolder.Text = "Ouvrir dossier Installation";
             this.btnOpenInstallFolder.UseVisualStyleBackColor = true;
             this.btnOpenInstallFolder.Click += new System.EventHandler(this.btnOpenInstallFolder_Click);
             // 
@@ -328,7 +328,7 @@ namespace AOGConfigOMatic.AgOpenGPS
             this.btnLaunchAgOpenGPS.Name = "btnLaunchAgOpenGPS";
             this.btnLaunchAgOpenGPS.Size = new System.Drawing.Size(160, 28);
             this.btnLaunchAgOpenGPS.TabIndex = 2;
-            this.btnLaunchAgOpenGPS.Text = "Launch AgOpenGPS";
+            this.btnLaunchAgOpenGPS.Text = "Lancer AgOpenGPS";
             this.btnLaunchAgOpenGPS.UseVisualStyleBackColor = true;
             this.btnLaunchAgOpenGPS.Click += new System.EventHandler(this.btnLaunchAgOpenGPS_Click);
             // 
@@ -340,7 +340,7 @@ namespace AOGConfigOMatic.AgOpenGPS
             this.lblInstallPath.Name = "lblInstallPath";
             this.lblInstallPath.Size = new System.Drawing.Size(159, 16);
             this.lblInstallPath.TabIndex = 1;
-            this.lblInstallPath.Text = "Install Path: (not detected)";
+            this.lblInstallPath.Text = "dossier : (non detecté)";
             // 
             // lblInstalledVersion
             // 
@@ -350,7 +350,7 @@ namespace AOGConfigOMatic.AgOpenGPS
             this.lblInstalledVersion.Name = "lblInstalledVersion";
             this.lblInstalledVersion.Size = new System.Drawing.Size(172, 16);
             this.lblInstalledVersion.TabIndex = 0;
-            this.lblInstalledVersion.Text = "Installed Version: (unknown)";
+            this.lblInstalledVersion.Text = "Version installée: (unknown)";
             // 
             // progressBar
             // 
@@ -372,7 +372,7 @@ namespace AOGConfigOMatic.AgOpenGPS
             this.lblStatus.Name = "lblStatus";
             this.lblStatus.Size = new System.Drawing.Size(48, 16);
             this.lblStatus.TabIndex = 5;
-            this.lblStatus.Text = "Ready";
+            this.lblStatus.Text = "Prêt";
             // 
             // AgOpenGpsControl
             // 
@@ -431,4 +431,5 @@ namespace AOGConfigOMatic.AgOpenGPS
         private System.Windows.Forms.DataGridViewTextBoxColumn colDescription;
         private System.Windows.Forms.DataGridViewTextBoxColumn colSize;
     }
+
 }
