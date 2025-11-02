@@ -110,22 +110,22 @@
             // btnUMDual
             // 
             this.btnUMDual.AutoSize = true;
-            this.btnUMDual.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnUMDual.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnUMDual.Location = new System.Drawing.Point(14, 57);
             this.btnUMDual.Name = "btnUMDual";
-            this.btnUMDual.Size = new System.Drawing.Size(97, 40);
+            this.btnUMDual.Size = new System.Drawing.Size(97, 100);
             this.btnUMDual.TabIndex = 1;
-            this.btnUMDual.Text = "Dual";
+            this.btnUMDual.Text = "Double antenne";
             this.btnUMDual.UseVisualStyleBackColor = true;
             // 
             // btnUMSingle
             // 
             this.btnUMSingle.AutoSize = true;
             this.btnUMSingle.Checked = true;
-            this.btnUMSingle.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnUMSingle.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnUMSingle.Location = new System.Drawing.Point(14, 10);
             this.btnUMSingle.Name = "btnUMSingle";
-            this.btnUMSingle.Size = new System.Drawing.Size(120, 40);
+            this.btnUMSingle.Size = new System.Drawing.Size(120, 100);
             this.btnUMSingle.TabIndex = 0;
             this.btnUMSingle.TabStop = true;
             this.btnUMSingle.Text = "Simple antenne";
