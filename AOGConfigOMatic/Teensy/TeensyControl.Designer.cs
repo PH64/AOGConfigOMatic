@@ -88,7 +88,7 @@
             this.btnRefreshTeensy.Name = "btnRefreshTeensy";
             this.btnRefreshTeensy.Size = new System.Drawing.Size(105, 42);
             this.btnRefreshTeensy.TabIndex = 15;
-            this.btnRefreshTeensy.Text = "Rescan";
+            this.btnRefreshTeensy.Text = "Re-scan";
             this.btnRefreshTeensy.UseVisualStyleBackColor = true;
             this.btnRefreshTeensy.Click += new System.EventHandler(this.btnRefreshTeensy_Click);
             // 
@@ -100,7 +100,7 @@
             this.btnProgram.Name = "btnProgram";
             this.btnProgram.Size = new System.Drawing.Size(105, 37);
             this.btnProgram.TabIndex = 14;
-            this.btnProgram.Text = "Program!";
+            this.btnProgram.Text = "Envoyer";
             this.btnProgram.UseVisualStyleBackColor = true;
             this.btnProgram.Click += new System.EventHandler(this.btnProgramTeensy_Click);
             // 
@@ -123,7 +123,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(222, 29);
             this.label1.TabIndex = 12;
-            this.label1.Text = "Available firmwares";
+            this.label1.Text = "Firmwares disponibles";
             // 
             // tvFirmware
             // 
@@ -169,3 +169,4 @@
         private System.Windows.Forms.TreeView tvFirmware;
     }
 }
+
