@@ -77,7 +77,7 @@ namespace AOGConfigOMatic
             this.tabGPS.Name = "tabGPS";
             this.tabGPS.Size = new System.Drawing.Size(720, 539);
             this.tabGPS.TabIndex = 1;
-            this.tabGPS.Text = "Ublox";
+            this.tabGPS.Text = "F9P";
             this.tabGPS.UseVisualStyleBackColor = true;
             // 
             // uBloxControl
